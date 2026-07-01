@@ -1,16 +1,72 @@
-## Hi there 👋
+# Harsh Gavand
 
-<!--
-**harshgavandit/harshgavandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer interested in backend systems, AI applications, and building software that solves practical problems.
 
-Here are some ideas to get you started:
+I'm currently working on AI-powered developer tools, production web applications, and backend services using Python, React, Node.js, and modern databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-Stack Developer at GlobeTrek Engineering Corporation
+- B.Tech in Information Technology, Pillai College of Engineering
+- Top 10 — OpenAI Builders Hackathon (MemoryGraph AI)
+- Top 5 — Supervity AutoPilot AI Hackathon
+
+## Selected Projects
+
+### API Reliability Copilot
+AI-assisted platform for monitoring APIs, detecting failures, analyzing incidents, and recommending fixes.
+
+**Stack:** FastAPI, Next.js, MySQL, Docker, OpenAI
+
+https://github.com/harshgavandit/API_ISSUES_DEBUGGING_AGENT
+
+---
+
+### MemoryGraph AI
+A knowledge graph memory layer for LLM applications with semantic retrieval and context-aware memory injection.
+
+**Stack:** Next.js, FastAPI, PostgreSQL, ChromaDB
+
+https://github.com/harshgavandit/OpenAI_Project-
+
+---
+
+### AutoPilot AI
+Multi-agent business automation platform supporting workflow orchestration, RBAC, audit logging, and Dockerized services.
+
+**Stack:** FastAPI, Next.js, PostgreSQL, Docker
+
+https://github.com/harshgavandit/SuperVity-AutoPilot-AI-Hackathon
+
+---
+
+### ESG Data Normalizer
+Enterprise application for ESG data ingestion, validation, review workflows, and audit reporting.
+
+**Stack:** Django REST Framework, React, PostgreSQL , NODEJS, EXPRESSJS,Python,FASTAPI,FLASK,GOLANG.
+
+https://github.com/harshgavandit/esg-data-normalizer
+
+## Current Focus
+
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- API Reliability
+- Backend Architecture
+- Docker & Cloud Deployment
+
+## Technologies
+
+Python • Java • JavaScript • TypeScript
+
+React • Next.js • Node.js • Express • Django • FastAPI
+
+PostgreSQL • MySQL • MongoDB
+
+Docker • Git • Linux
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/harsh-gavand
+
+Email  
+harshgavand2@gmail.com
