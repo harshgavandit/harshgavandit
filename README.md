@@ -20,7 +20,7 @@ I am currently working on AI-powered developer tools, production web application
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 - 💼 Full-Stack Developer at **GlobeTrek Engineering Corporation**
 - 🎓 B.Tech in Information Technology — **Pillai College of Engineering**
@@ -32,7 +32,7 @@ I am currently working on AI-powered developer tools, production web application
 ---
 
 
-# 🎯 Current Focus
+#  Current Focus
 
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
@@ -44,7 +44,7 @@ I am currently working on AI-powered developer tools, production web application
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -97,7 +97,7 @@ I am currently working on AI-powered developer tools, production web application
 
 ---
 
-# 📫 Contact
+#  Contact
 
 - **GitHub:** https://github.com/harshgavandit
 - **LinkedIn:** https://linkedin.com/in/harsh-gavand
