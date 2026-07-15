@@ -31,9 +31,7 @@ I am currently working on AI-powered developer tools, production web application
 
 ---
 
-
 #  Current Focus
-
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
 - Backend Architecture
@@ -41,20 +39,16 @@ I am currently working on AI-powered developer tools, production web application
 - Distributed Systems
 - Docker & Cloud Deployment
 - Production-grade Full-Stack Applications
-
 ---
-
 #  Tech Stack
 
 ### Languages
-
 - Python
 - Java
 - JavaScript
 - TypeScript
 
 ### Frontend
-
 - React
 - Next.js
 - Tailwind CSS
@@ -62,7 +56,6 @@ I am currently working on AI-powered developer tools, production web application
 - CSS3
 
 ### Backend
-
 - Node.js
 - Express.js
 - FastAPI
@@ -71,14 +64,12 @@ I am currently working on AI-powered developer tools, production web application
 - REST APIs
 
 ### Databases
-
 - PostgreSQL
 - MySQL
 - MongoDB
 - SQLite
 
 ### AI & Data
-
 - OpenAI API
 - LangChain
 - Pandas
@@ -87,7 +78,6 @@ I am currently working on AI-powered developer tools, production web application
 - Keras
 
 ### DevOps & Tools
-
 - Docker
 - Git
 - GitHub
@@ -99,6 +89,6 @@ I am currently working on AI-powered developer tools, production web application
 
 #  Contact
 
-- **GitHub:** https://github.com/harshgavandit
+- PortFolio - https://harsh-gavand-portfolio-website.onrender.com
 - **LinkedIn:** https://linkedin.com/in/harsh-gavand
 - **Email:** harshgavand2@gmail.com
