@@ -22,7 +22,7 @@ I am currently working on AI-powered developer tools, production web application
 
 #  About Me
 
-- 💼 Full-Stack Developer at **GlobeTrek Engineering Corporation**
+- 💼 Full-Stack Developer at **C-Presents**
 - 🎓 B.Tech in Information Technology — **Pillai College of Engineering**
 - 🏆 Top 10 — OpenAI Builders Hackathon *(MemoryGraph AI)*
 - 🏆 Top 5 — Supervity AutoPilot AI Hackathon
