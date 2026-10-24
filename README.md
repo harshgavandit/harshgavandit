@@ -43,8 +43,9 @@ Agri Samaj is a community project that I maintain and extend around the communit
 
 ## Measurements and failure handling
 
-- **[Docwise evaluation](https://github.com/harshgavandit/rag-documentation-assistant/tree/main/evaluation):** 50 source-labelled questions comparing BM25, vector and hybrid retrieval. A separate 18-request model run records answers, refusals, citation checks and token usage. BM25's lead over hybrid and a failed regex check remain visible in the results.
+- **[Docwise evaluation](https://github.com/harshgavandit/rag-documentation-assistant/tree/main/evaluation):** 112 source-labelled intents compare BM25, vector and hybrid retrieval. Separate real-model runs inspect cited answers, refusals, instruction attacks, conflicting evidence and ambiguous questions. Results retain misses, a regex false negative and actual token usage.
 - **[Cache workloads and recovery](https://github.com/harshgavandit/RAG-Semantic-Cache-Symposium-Bot/tree/main/benchmarks):** 9,000 local SQLite operations, concurrency comparisons, TTL/eviction/contention exercises and HTTP recovery drills. The workload found a connection-lifetime bug, now fixed with regression tests. A separate bounded live Redis check verifies atomic admission and expiry recovery.
+- **[Operating Docwise](https://github.com/harshgavandit/rag-documentation-assistant/tree/main/operations):** protected daily health and aggregate observations, separate synthetic/visitor cohorts, returned-token accounting and optional one-use answer feedback. No question text or visitor identity is retained.
 
 The repositories include the datasets, commands, source fingerprints and recorded outputs. These are controlled development runs; they do not represent customer traffic or a production incident history.
 
