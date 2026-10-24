@@ -1,94 +1,45 @@
-# Hi, I'm Harsh Gavand 👋
+# Harsh Gavand
 
-## Full-Stack Software Engineer
+**Full-stack, backend & AI engineering**
 
-Full-Stack Software Engineer interested in backend systems, AI applications, and building software that solves practical problems.
+I build Python and TypeScript applications: backend APIs, data workflows, web interfaces, and AI features with application-controlled state and permissions. My work includes internal quotation, invoice, and email automation tools, community platforms, retrieval systems, and agents with deterministic execution rules.
 
-I am currently working on AI-powered developer tools, production web applications, and backend services using Python, React, Node.js, and modern databases.
+Mumbai, India · **Open to remote Full-Stack Developer, Backend Engineer, and AI Engineer roles.**
 
-<p align="left">
-  <a href="https://github.com/harshgavandit">
-    <img src="https://img.shields.io/badge/GitHub-harshgavandit-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-gavand">
-    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Gavand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshgavand2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harshgavand2%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[Portfolio](https://harshgavand.dev/) · [LinkedIn](https://www.linkedin.com/in/harsh-gavand) · [Email](mailto:harshgavand2@gmail.com)
 
----
+## Selected engineering work
 
-#  About Me
+| Project | What to inspect | Try it |
+| --- | --- | --- |
+| [Banking Agent Harness](https://github.com/harshgavandit/banking-agent-harness) | Python policy checks and explicit later-turn confirmation around agent-selected mock transfers; isolated Redis-backed sessions and regression tests. | [Mock banking demo](https://banking-agent-harness.vercel.app) |
+| [Symposium RAG & Semantic Cache](https://github.com/harshgavandit/RAG-Semantic-Cache-Symposium-Bot) | Document-grounded answers with page references, exact and semantic Redis caching, and source-aware cache namespaces. | [PDF assistant](https://symposium-rag-bot.vercel.app) |
+| [Docwise — Hybrid RAG](https://github.com/harshgavandit/rag-documentation-assistant) | BM25 and ONNX MiniLM retrieval combined through reciprocal rank fusion, followed by cited OpenAI answers. | [Documentation assistant](https://rag-documentation-assistant.vercel.app) |
+| [Agri Samaj Community Platform](https://github.com/harshgavandit/agri-samaj-community-platform) | Marathi–English business discovery and entrepreneur registration, with Next.js, Prisma/PostgreSQL, private application workflows, and community-led requirements. | [Community platform](https://agri-samaj-community-platform.vercel.app) |
+| [AgriConnect](https://github.com/harshgavandit/Agri-Connect) | Full-stack contributions to an agricultural marketplace: organisation permissions, checkout validation, administrator workflows, PostgreSQL, and AI assistance. Built on the [upstream project](https://github.com/c-PRESENTS/Agri-Connect). | [Marketplace](https://agri-connect-flame.vercel.app) |
+| [Realtime Meetings](https://github.com/harshgavandit/Zoom_Clone) | Browser WebRTC media, screen sharing, room-scoped signaling, and PostgreSQL-backed signaling state with concurrency and isolation tests. | [Meeting application](https://zoom-clone-blue-pi.vercel.app) |
 
-- 💼 Full-Stack Developer at **GlobeTrek Engineerng Corporation**
-- 🎓 B.Tech in Information Technology — **Pillai College of Engineering**
-- 🏆 Top 10 — OpenAI Builders Hackathon *(MemoryGraph AI)*
-- 🏆 Top 5 — Supervity AutoPilot AI Hackathon
-- 🤖 Passionate about AI Agents, Backend Systems, APIs, and Production Software
-- 🚀 Focused on building scalable, maintainable, production-ready applications
+## Contributions you can review
 
----
+My work on **c-PRESENTS/Agri-Connect** includes these merged pull requests:
 
-#  Current Focus
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Backend Architecture
-- API Reliability
-- Distributed Systems
-- Docker & Cloud Deployment
-- Production-grade Full-Stack Applications
----
-#  Tech Stack
+- [Organisation RBAC and marketplace workflows — #15](https://github.com/c-PRESENTS/Agri-Connect/pull/15): permission middleware, organisation roles, and relational access rules.
+- [Checkout validation and recovery — #19](https://github.com/c-PRESENTS/Agri-Connect/pull/19): request validation, stage-aware error handling, and checkout retry behaviour.
+- [Administrator control-centre work — #25](https://github.com/c-PRESENTS/Agri-Connect/pull/25): administrator and security-management interfaces.
 
-### Languages
-- Python
-- Java
-- JavaScript
-- TypeScript
+Agri Samaj is a community project that I maintain and extend around the community's requests. My previous full-time work at **GlobeTrek Engineering Corporation** included delivering full-stack applications and tools for quotation building, invoice generation, and automated email sending. Earlier work at **HRP Enterprises** involved React, Node.js, Express, REST APIs, and database-backed application features.
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- HTML5
-- CSS3
+## Main tools
 
-### Backend
-- Node.js
-- Express.js
-- FastAPI
-- Django
-- Flask
-- REST APIs
+- **Backend & data:** Python, FastAPI, Node.js, Express, PostgreSQL, Prisma, Redis, SQL, and SQLite.
+- **Applied AI:** OpenAI, Google ADK, retrieval-augmented generation, BM25, vector search, ONNX inference, and semantic caching.
+- **Frontend:** TypeScript, React, Next.js, accessible interfaces, and role-based product workflows.
+- **Delivery:** Docker, GitHub Actions, Vercel, automated tests, and application logging.
 
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- SQLite
+## More work
 
-### AI & Data
-- OpenAI API
-- LangChain
-- Pandas
-- NumPy
-- TensorFlow
-- Keras
+- [System-design study & scaling lab](https://github.com/harshgavandit/Advanced-System-Design-Implementation-): runnable backend experiments with load generation and observability.
+- [UGC Content Studio](https://github.com/harshgavandit/ugc-project): authenticated image-generation workflows, media storage, and credit handling.
+- [Portfolio source](https://github.com/harshgavandit/Harsh-Gavand-PortFolio-Website): the site, case studies, and its AI assistant and tools.
 
-### DevOps & Tools
-- Docker
-- Git
-- GitHub
-- Linux
-- Postman
-- CI/CD
-
----
-
-#  Contact
-
-- PortFolio - https://harshgavand.dev/
-- **LinkedIn:** https://linkedin.com/in/harsh-gavand
-- **Email:** harshgavand2@gmail.com
+For a remote role or an engineering collaboration, reach me at **[harshgavand2@gmail.com](mailto:harshgavand2@gmail.com)**.
