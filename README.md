@@ -29,12 +29,17 @@ My work on **c-PRESENTS/Agri-Connect** includes these merged pull requests:
 
 Agri Samaj is a community project that I maintain and extend around the community's requests. My previous full-time work at **GlobeTrek Engineering Corporation** included delivering full-stack applications and tools for quotation building, invoice generation, and automated email sending. Earlier work at **HRP Enterprises** involved React, Node.js, Express, REST APIs, and database-backed application features.
 
-## Main tools
+## Tech stack
 
-- **Backend & data:** Python, FastAPI, Node.js, Express, PostgreSQL, Prisma, Redis, SQL, and SQLite.
-- **Applied AI:** OpenAI, Google ADK, retrieval-augmented generation, BM25, vector search, ONNX inference, and semantic caching.
-- **Frontend:** TypeScript, React, Next.js, accessible interfaces, and role-based product workflows.
-- **Delivery:** Docker, GitHub Actions, Vercel, automated tests, and application logging.
+- **Frontend & interfaces:** React, Next.js, TypeScript, JavaScript ES6+, HTML, CSS, Tailwind CSS, accessible UI and state management.
+- **Backend & APIs:** Python, Node.js, Express, Django, Django REST Framework, Flask, FastAPI, REST APIs, asynchronous tasks and data pipelines.
+- **Authentication & realtime:** JWT, Clerk, role-based access control, Socket.IO, WebRTC and webhooks.
+- **Databases & persistence:** PostgreSQL, MySQL, MongoDB, Redis, SQLite, SQL, Prisma, Sequelize, Mongoose, SQLAlchemy, vector databases and database migrations.
+- **Applied AI & ML:** OpenAI APIs, Google AI / Gemini, Google ADK, LangChain, LangGraph, RAG, embeddings, BM25, ONNX, semantic caching, TensorFlow, Keras, Pandas and NumPy.
+- **Cloud & delivery:** Docker, Docker Compose, AWS, Linux, Vercel, Cloudinary, GitHub Actions and CI/CD.
+- **Testing & engineering tools:** Git, GitHub, Postman, automated tests, k6, Grafana and application logging.
+
+[Explore the stack and project examples on my portfolio](https://harshgavand.dev/#skills).
 
 ## More work
 
