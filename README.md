@@ -45,6 +45,8 @@ Agri Samaj is a community project that I maintain and extend around the communit
 
 - [System-design study & scaling lab](https://github.com/harshgavandit/Advanced-System-Design-Implementation-): runnable backend experiments with load generation and observability.
 - [UGC Content Studio](https://github.com/harshgavandit/ugc-project): authenticated image-generation workflows, media storage, and credit handling.
+- [Stock Prediction Portal](https://github.com/harshgavandit/Stock-Prediction_Portal_Python_ML): Django REST/JWT accounts, personal watchlists, market charts, and NumPy inference from exported LSTM weights.
+- [AI News to Email Generator](https://github.com/harshgavandit/AI_News_To_Email_Generator): RSS collection, personalized digest previews, HTML export, and owner-authorized Gmail delivery.
 - [Portfolio source](https://github.com/harshgavandit/Harsh-Gavand-PortFolio-Website): the site, case studies, and its AI assistant and tools.
 
 For a remote role or an engineering collaboration, reach me at **[harsh.gavand.tech@gmail.com](mailto:harsh.gavand.tech@gmail.com)**.
