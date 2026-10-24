@@ -41,6 +41,13 @@ Agri Samaj is a community project that I maintain and extend around the communit
 
 [Explore the stack and project examples on my portfolio](https://harshgavand.dev/#skills).
 
+## Measurements and failure handling
+
+- **[Docwise evaluation](https://github.com/harshgavandit/rag-documentation-assistant/tree/main/evaluation):** 50 source-labelled questions comparing BM25, vector and hybrid retrieval. A separate 18-request model run records answers, refusals, citation checks and token usage. BM25's lead over hybrid and a failed regex check remain visible in the results.
+- **[Cache workloads and recovery](https://github.com/harshgavandit/RAG-Semantic-Cache-Symposium-Bot/tree/main/benchmarks):** 9,000 local SQLite operations, concurrency comparisons, TTL/eviction/contention exercises and HTTP recovery drills. The workload found a connection-lifetime bug, now fixed with regression tests. A separate bounded live Redis check verifies atomic admission and expiry recovery.
+
+The repositories include the datasets, commands, source fingerprints and recorded outputs. These are controlled development runs; they do not represent customer traffic or a production incident history.
+
 ## More work
 
 - [System-design study & scaling lab](https://github.com/harshgavandit/Advanced-System-Design-Implementation-): runnable backend experiments with load generation and observability.
