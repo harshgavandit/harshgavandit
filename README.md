@@ -29,6 +29,8 @@ My work on **c-PRESENTS/Agri-Connect** includes these merged pull requests:
 - [Checkout validation and recovery — #19](https://github.com/c-PRESENTS/Agri-Connect/pull/19): request validation, stage-aware error handling, and checkout retry behaviour.
 - [Administrator control-centre work — #25](https://github.com/c-PRESENTS/Agri-Connect/pull/25): administrator and security-management interfaces.
 
+All three have upstream maintainer approvals and merges: [#15 review](https://github.com/c-PRESENTS/Agri-Connect/pull/15#pullrequestreview-4910231608), [#19 review](https://github.com/c-PRESENTS/Agri-Connect/pull/19#pullrequestreview-4969400068), [#25 review](https://github.com/c-PRESENTS/Agri-Connect/pull/25#pullrequestreview-5049290461).
+
 Agri Samaj is a community project that I maintain and extend around the community's requests. My previous full-time work at **GlobeTrek Engineering Corporation** included delivering full-stack applications and tools for quotation building, invoice generation, and automated email sending. Earlier work at **HRP Enterprises** involved React, Node.js, Express, REST APIs, and database-backed application features.
 
 ## Tech stack
@@ -48,6 +50,7 @@ My primary application stack is **Python, TypeScript, React, FastAPI, Node.js, P
 ## Measurements and failure handling
 
 - **[Docwise evaluation](https://github.com/harshgavandit/rag-documentation-assistant/tree/main/evaluation):** 112 source-labelled intents compare BM25, vector and hybrid retrieval. Separate real-model runs inspect cited answers, refusals, instruction attacks, conflicting evidence and ambiguous questions. Results retain misses, a regex false negative and actual token usage.
+- **[Multi-domain diagnostic](https://github.com/harshgavandit/rag-documentation-assistant/blob/main/evaluation/BROADER_RESULTS.md):** five application domains, frozen development/held-out query splits, 60 retrieval cases and 24 additional real-model attempts. The timeout and strict-refusal mismatch remain visible; labels are AI-reviewed, with external human review still open.
 - **[Cache workloads and recovery](https://github.com/harshgavandit/RAG-Semantic-Cache-Symposium-Bot/tree/main/benchmarks):** 9,000 local SQLite operations, concurrency comparisons, TTL/eviction/contention exercises and HTTP recovery drills. The workload found a connection-lifetime bug, now fixed with regression tests. A separate bounded live Redis check verifies atomic admission and expiry recovery.
 - **[Operating Docwise](https://github.com/harshgavandit/rag-documentation-assistant/tree/main/operations):** protected daily health and aggregate observations, separate synthetic/visitor cohorts, returned-token accounting and optional one-use answer feedback. No question text or visitor identity is retained.
 
