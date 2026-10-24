@@ -8,6 +8,8 @@ Mumbai, India · **Open to remote Full-Stack Developer, Backend Engineer, and AI
 
 [Portfolio](https://harshgavand.dev/) · [LinkedIn](https://www.linkedin.com/in/harsh-gavand) · [Email](mailto:harsh.gavand.tech@gmail.com)
 
+Start with **[Docwise](https://github.com/harshgavandit/rag-documentation-assistant)** for retrieval and AI evaluation, the **[backend scaling lab](https://github.com/harshgavandit/Advanced-System-Design-Implementation-/tree/main/season-1/2.vertical-vs-horizontal-scaling)** for durable jobs and failure recovery, or **[Agri Samaj](https://github.com/harshgavandit/agri-samaj-community-platform)** for community product delivery. The scaling lab is a local study implementation; cloud deployment and a sustained production SLO remain open.
+
 ## Selected engineering work
 
 | Project | What to inspect | Try it |
@@ -30,6 +32,8 @@ My work on **c-PRESENTS/Agri-Connect** includes these merged pull requests:
 Agri Samaj is a community project that I maintain and extend around the community's requests. My previous full-time work at **GlobeTrek Engineering Corporation** included delivering full-stack applications and tools for quotation building, invoice generation, and automated email sending. Earlier work at **HRP Enterprises** involved React, Node.js, Express, REST APIs, and database-backed application features.
 
 ## Tech stack
+
+My primary application stack is **Python, TypeScript, React, FastAPI, Node.js, PostgreSQL and Redis**. The repositories also use the broader tools listed here; cloud reference work and local scaling experiments are identified in their documentation.
 
 - **Frontend & interfaces:** React, Next.js, TypeScript, JavaScript ES6+, HTML, CSS, Tailwind CSS, accessible UI and state management.
 - **Backend & APIs:** Python, Node.js, Express, Django, Django REST Framework, Flask, FastAPI, REST APIs, asynchronous tasks and data pipelines.
