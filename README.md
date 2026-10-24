@@ -6,7 +6,7 @@ I build Python and TypeScript applications: backend APIs, data workflows, web in
 
 Mumbai, India · **Open to remote Full-Stack Developer, Backend Engineer, and AI Engineer roles.**
 
-[Portfolio](https://harshgavand.dev/) · [LinkedIn](https://www.linkedin.com/in/harsh-gavand) · [Email](mailto:harshgavand2@gmail.com)
+[Portfolio](https://harshgavand.dev/) · [LinkedIn](https://www.linkedin.com/in/harsh-gavand) · [Email](mailto:harsh.gavand.tech@gmail.com)
 
 ## Selected engineering work
 
@@ -47,4 +47,4 @@ Agri Samaj is a community project that I maintain and extend around the communit
 - [UGC Content Studio](https://github.com/harshgavandit/ugc-project): authenticated image-generation workflows, media storage, and credit handling.
 - [Portfolio source](https://github.com/harshgavandit/Harsh-Gavand-PortFolio-Website): the site, case studies, and its AI assistant and tools.
 
-For a remote role or an engineering collaboration, reach me at **[harshgavand2@gmail.com](mailto:harshgavand2@gmail.com)**.
+For a remote role or an engineering collaboration, reach me at **[harsh.gavand.tech@gmail.com](mailto:harsh.gavand.tech@gmail.com)**.
