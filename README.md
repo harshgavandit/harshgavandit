@@ -10,7 +10,7 @@ Mumbai, India · **Open to remote Full-Stack Developer, Backend Engineer, and AI
 
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/harshgavandit/badge.svg)](https://hub.xerj.org/contributors/harshgavandit)
 
-**Selected for the XERJ Corpus Hub:** Agri Samaj's bilingual AI chat and voice implementation is included as a searchable reference for AI coding agents. [View the selection](https://hub.xerj.org/contributors/harshgavandit) · [Explore the repository corpus](https://hub.xerj.org/corpus/harshgavandit--agri-samaj-community-platform).
+**Selected for the XERJ Corpus Hub:** Agri Samaj's bilingual AI chat and voice implementation is included as a searchable reference for AI coding agents. [View the selection](https://hub.xerj.org/contributors/harshgavandit) · [Explore the repository corpus](https://hub.xerj.org/corpus/harshgavandit--agri-samaj-community-platform) · [Official XERJ repository](https://github.com/xerj-org/xerj).
 
 Start with **[Docwise](https://github.com/harshgavandit/rag-documentation-assistant)** for retrieval and AI evaluation, the **[backend scaling lab](https://github.com/harshgavandit/Advanced-System-Design-Implementation-/tree/main/season-1/2.vertical-vs-horizontal-scaling)** for durable jobs and failure recovery, or **[Agri Samaj](https://github.com/harshgavandit/agri-samaj-community-platform)** for community product delivery. The scaling lab is a local study implementation; cloud deployment and a sustained production SLO remain open.
 
