@@ -1,72 +1,63 @@
-# Harsh Gavand
+# Hi, I'm Harsh Gavand
 
-**Full-stack, backend & AI engineering**
+**Full-Stack & AI Engineer** · Mumbai, India · Open to remote roles worldwide
 
-I build Python and TypeScript applications: backend APIs, data workflows, web interfaces, and AI features with application-controlled state and permissions. My work includes internal quotation, invoice, and email automation tools, community platforms, retrieval systems, and agents with deterministic execution rules.
+I build web applications end to end — React and Next.js frontends, Python and Node.js APIs, PostgreSQL and Redis — and add AI where it earns its place: document Q&A, AI agents, and voice and chat assistants that stay inside clear rules.
 
-Mumbai, India · **Open to remote Full-Stack Developer, Backend Engineer, and AI Engineer roles.**
+[Portfolio](https://harshgavand.dev/) · [LinkedIn](https://www.linkedin.com/in/harsh-gavand) · [Email](mailto:harsh.gavand.tech@gmail.com) · [Résumé](https://harshgavand.dev/resume.pdf)
 
-[Portfolio](https://harshgavand.dev/) · [LinkedIn](https://www.linkedin.com/in/harsh-gavand) · [Email](mailto:harsh.gavand.tech@gmail.com)
+---
 
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/harshgavandit/badge.svg)](https://hub.xerj.org/contributors/harshgavandit)
+## What I work on
 
-**Selected for the XERJ Corpus Hub:** Agri Samaj's bilingual AI chat and voice implementation is included as a searchable reference for AI coding agents. [View the selection](https://hub.xerj.org/contributors/harshgavandit) · [Explore the repository corpus](https://hub.xerj.org/corpus/harshgavandit--agri-samaj-community-platform) · [Official XERJ repository](https://github.com/xerj-org/xerj).
+- **Full-stack products** — multi-role web apps with login, permissions, dashboards and payments-style workflows.
+- **Backend APIs** — FastAPI, Django and Express services with validation, rate limits and tests.
+- **Applied AI** — RAG assistants that cite their sources, AI agents with guardrails, and LLM features with cost limits.
 
-Start with **[Docwise](https://github.com/harshgavandit/rag-documentation-assistant)** for retrieval and AI evaluation, the **[backend scaling lab](https://github.com/harshgavandit/Advanced-System-Design-Implementation-/tree/main/season-1/2.vertical-vs-horizontal-scaling)** for durable jobs and failure recovery, or **[Agri Samaj](https://github.com/harshgavandit/agri-samaj-community-platform)** for community product delivery. The scaling lab is a local study implementation; cloud deployment and a sustained production SLO remain open.
+## Featured projects
 
-## Selected engineering work
+| Project | In one line | Built with | Links |
+| --- | --- | --- | --- |
+| **[Agri Samaj](https://github.com/harshgavandit/agri-samaj-community-platform)** | Marathi–English community platform for business discovery and entrepreneur registration, with AI chat and voice | Next.js · Prisma · PostgreSQL | [Live](https://agri-samaj-community-platform.vercel.app) |
+| **[Docwise](https://github.com/harshgavandit/rag-documentation-assistant)** | Documentation assistant that combines keyword and semantic search and answers with citations | Python · BM25 · ONNX · OpenAI | [Live](https://rag-documentation-assistant.vercel.app) |
+| **[Banking Agent Harness](https://github.com/harshgavandit/banking-agent-harness)** | AI banking agent where Python rules — not the model — decide whether a transfer may run | Python · Redis · OpenAI | [Live](https://banking-agent-harness.vercel.app) |
+| **[Symposium RAG](https://github.com/harshgavandit/RAG-Semantic-Cache-Symposium-Bot)** | PDF assistant with page references and a semantic cache that reuses earlier answers | FastAPI · Redis · OpenAI | [Live](https://symposium-rag-bot.vercel.app) |
+| **[AgriConnect](https://github.com/harshgavandit/Agri-Connect)** | Agricultural marketplace — I added role-based access, checkout validation and admin tools | Node.js · PostgreSQL · React | [Live](https://agri-connect-flame.vercel.app) |
+| **[Realtime Meetings](https://github.com/harshgavandit/Zoom_Clone)** | Video meetings with screen sharing and room-based signaling | WebRTC · Node.js · PostgreSQL | [Live](https://zoom-clone-blue-pi.vercel.app) |
 
-| Project | What to inspect | Try it |
-| --- | --- | --- |
-| [Banking Agent Harness](https://github.com/harshgavandit/banking-agent-harness) | Python policy checks and explicit later-turn confirmation around agent-selected mock transfers; isolated Redis-backed sessions and regression tests. | [Mock banking demo](https://banking-agent-harness.vercel.app) |
-| [Symposium RAG & Semantic Cache](https://github.com/harshgavandit/RAG-Semantic-Cache-Symposium-Bot) | Document-grounded answers with page references, exact and semantic Redis caching, and source-aware cache namespaces. | [PDF assistant](https://symposium-rag-bot.vercel.app) |
-| [Docwise — Hybrid RAG](https://github.com/harshgavandit/rag-documentation-assistant) | BM25 and ONNX MiniLM retrieval combined through reciprocal rank fusion, followed by cited OpenAI answers. | [Documentation assistant](https://rag-documentation-assistant.vercel.app) |
-| [Agri Samaj Community Platform](https://github.com/harshgavandit/agri-samaj-community-platform) | Marathi–English business discovery and entrepreneur registration, with Next.js, Prisma/PostgreSQL, private application workflows, and community-led requirements. | [Community platform](https://agri-samaj-community-platform.vercel.app) |
-| [AgriConnect](https://github.com/harshgavandit/Agri-Connect) | Full-stack contributions to an agricultural marketplace: organisation permissions, checkout validation, administrator workflows, PostgreSQL, and AI assistance. Built on the [upstream project](https://github.com/c-PRESENTS/Agri-Connect). | [Marketplace](https://agri-connect-flame.vercel.app) |
-| [Realtime Meetings](https://github.com/harshgavandit/Zoom_Clone) | Browser WebRTC media, screen sharing, room-scoped signaling, and PostgreSQL-backed signaling state with concurrency and isolation tests. | [Meeting application](https://zoom-clone-blue-pi.vercel.app) |
+Each project has a full write-up — problem, architecture and what I built — on **[harshgavand.dev](https://harshgavand.dev/#projects)**.
 
-## Contributions you can review
+## Highlights
 
-My work on **c-PRESENTS/Agri-Connect** includes these merged pull requests:
+- **Merged open-source PRs** to [c-PRESENTS/Agri-Connect](https://github.com/c-PRESENTS/Agri-Connect): [role-based access (#15)](https://github.com/c-PRESENTS/Agri-Connect/pull/15) · [checkout validation (#19)](https://github.com/c-PRESENTS/Agri-Connect/pull/19) · [admin control centre (#25)](https://github.com/c-PRESENTS/Agri-Connect/pull/25)
+- **Selected for the [XERJ Corpus Hub](https://hub.xerj.org/contributors/harshgavandit)** — Agri Samaj's AI chat and voice code is a reference for AI coding agents.
+- **Hackathons** — Top 5 at Supervity AI Hackathon · Top 10 at OpenAI Builders Hackathon · Top 100 at Smart India Hackathon 2025.
+- **Tested, not just demoed** — Docwise ships with a [retrieval and answer evaluation](https://github.com/harshgavandit/rag-documentation-assistant/tree/main/evaluation); the cache project includes [benchmarks and failure checks](https://github.com/harshgavandit/RAG-Semantic-Cache-Symposium-Bot/tree/main/benchmarks).
 
-- [Organisation RBAC and marketplace workflows — #15](https://github.com/c-PRESENTS/Agri-Connect/pull/15): permission middleware, organisation roles, and relational access rules.
-- [Checkout validation and recovery — #19](https://github.com/c-PRESENTS/Agri-Connect/pull/19): request validation, stage-aware error handling, and checkout retry behaviour.
-- [Administrator control-centre work — #25](https://github.com/c-PRESENTS/Agri-Connect/pull/25): administrator and security-management interfaces.
+## Experience
 
-All three have upstream maintainer approvals and merges: [#15 review](https://github.com/c-PRESENTS/Agri-Connect/pull/15#pullrequestreview-4910231608), [#19 review](https://github.com/c-PRESENTS/Agri-Connect/pull/19#pullrequestreview-4969400068), [#25 review](https://github.com/c-PRESENTS/Agri-Connect/pull/25#pullrequestreview-5049290461).
+- **Software Engineer (SDE I), GlobeTrek Engineering Corporation** · Nov 2025 – Sep 2026 — built internal web apps for quotations, invoices and automated emails, plus AI agent workflows and GIS dashboards (Next.js, Flask, LangGraph, PostgreSQL).
+- **Full-Stack Developer, HRP Enterprises** · Jan – Oct 2025 — React interfaces with Node.js/Express REST APIs, authentication and database validation.
 
-Agri Samaj is a community project that I maintain and extend around the community's requests. My previous full-time work at **GlobeTrek Engineering Corporation** included delivering full-stack applications and tools for quotation building, invoice generation, and automated email sending. Earlier work at **HRP Enterprises** involved React, Node.js, Express, REST APIs, and database-backed application features.
+B.Tech in Information Technology, Pillai University, Mumbai (2025).
 
 ## Tech stack
 
-My primary application stack is **Python, TypeScript, React, FastAPI, Node.js, PostgreSQL and Redis**. The repositories also use the broader tools listed here; cloud reference work and local scaling experiments are identified in their documentation.
+[![Tech stack](https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,express,fastapi,django,flask,postgres,redis,mongodb,prisma,docker,aws,vercel,tailwind,git&perline=9)](https://harshgavand.dev/#skills)
 
-- **Frontend & interfaces:** React, Next.js, TypeScript, JavaScript ES6+, HTML, CSS, Tailwind CSS, accessible UI and state management.
-- **Backend & APIs:** Python, Node.js, Express, Django, Django REST Framework, Flask, FastAPI, REST APIs, asynchronous tasks and data pipelines.
-- **Authentication & realtime:** JWT, Clerk, role-based access control, Socket.IO, WebRTC and webhooks.
-- **Databases & persistence:** PostgreSQL, MySQL, MongoDB, Redis, SQLite, SQL, Prisma, Sequelize, Mongoose, SQLAlchemy, vector databases and database migrations.
-- **Applied AI & ML:** OpenAI APIs, Google AI / Gemini, Google ADK, LangChain, LangGraph, RAG, embeddings, BM25, ONNX, semantic caching, TensorFlow, Keras, Pandas and NumPy.
-- **Cloud & delivery:** Docker, Docker Compose, AWS, Linux, Vercel, Cloudinary, GitHub Actions and CI/CD.
-- **Testing & engineering tools:** Git, GitHub, Postman, automated tests, k6, Grafana and application logging.
+**AI & ML:** OpenAI API · Google ADK / Gemini · LangChain · LangGraph · RAG · embeddings · TensorFlow / Keras
 
-[Explore the stack and project examples on my portfolio](https://harshgavand.dev/#skills).
+<details>
+<summary><b>More projects</b></summary>
 
-## Measurements and failure handling
+- [UGC Content Studio](https://github.com/harshgavandit/ugc-project) — AI image generation with accounts, media storage and credits.
+- [Stock Prediction Portal](https://github.com/harshgavandit/Stock-Prediction_Portal_Python_ML) — Django REST app with watchlists, charts and an LSTM price model.
+- [AI News to Email](https://github.com/harshgavandit/AI_News_To_Email_Generator) — collects tech news from RSS and sends personalised email digests.
+- [System-design scaling lab](https://github.com/harshgavandit/Advanced-System-Design-Implementation-) — local backend experiments with load testing and monitoring.
+- [Portfolio source](https://github.com/harshgavandit/Harsh-Gavand-PortFolio-Website) — this site, its case studies and its AI assistant.
 
-- **[Docwise evaluation](https://github.com/harshgavandit/rag-documentation-assistant/tree/main/evaluation):** 112 source-labelled intents compare BM25, vector and hybrid retrieval. Separate real-model runs inspect cited answers, refusals, instruction attacks, conflicting evidence and ambiguous questions. Results retain misses, a regex false negative and actual token usage.
-- **[Multi-domain diagnostic](https://github.com/harshgavandit/rag-documentation-assistant/blob/main/evaluation/BROADER_RESULTS.md):** five application domains, frozen development/held-out query splits, 60 retrieval cases and 24 additional real-model attempts. The timeout and strict-refusal mismatch remain visible; labels are AI-reviewed, with external human review still open.
-- **[Cache workloads and recovery](https://github.com/harshgavandit/RAG-Semantic-Cache-Symposium-Bot/tree/main/benchmarks):** a historical 9,000-operation local SQLite workload and a new 300-operation run with raw timings and an offline percentile verifier. Recovery checks cover TTL, eviction, contention and connection lifetime. A separate bounded live Redis check verifies admission and expiry; SQLite timings do not measure the hosted Redis cache.
-- **[Hosted failure-path checks](https://github.com/harshgavandit/rag-documentation-assistant/blob/main/operations/HOSTED_WORKLOAD.md):** 16 requests exercised real Vercel, Redis and ONNX boundaries with an injected model provider. Recorded cases cover concurrent admission, quota expiry, upstream failures and usage accounting; they do not measure live-model latency or sustained service capacity.
-- **[Operating Docwise](https://github.com/harshgavandit/rag-documentation-assistant/tree/main/operations):** protected health/schema checks scheduled every six hours, separate synthetic/visitor cohorts, returned-token accounting and optional one-use answer feedback. No question text or visitor identity is retained.
+</details>
 
-The repositories include the datasets, commands, source fingerprints and recorded outputs. These are controlled development runs; they do not represent customer traffic or a production incident history.
+---
 
-## More work
-
-- [System-design study & scaling lab](https://github.com/harshgavandit/Advanced-System-Design-Implementation-): runnable backend experiments with load generation and observability.
-- [UGC Content Studio](https://github.com/harshgavandit/ugc-project): authenticated image-generation workflows, media storage, and credit handling.
-- [Stock Prediction Portal](https://github.com/harshgavandit/Stock-Prediction_Portal_Python_ML): Django REST/JWT accounts, personal watchlists, market charts, and NumPy inference from exported LSTM weights.
-- [AI News to Email Generator](https://github.com/harshgavandit/AI_News_To_Email_Generator): RSS collection, personalized digest previews, HTML export, and owner-authorized Gmail delivery.
-- [Portfolio source](https://github.com/harshgavandit/Harsh-Gavand-PortFolio-Website): the site, case studies, and its AI assistant and tools.
-
-For a remote role or an engineering collaboration, reach me at **[harsh.gavand.tech@gmail.com](mailto:harsh.gavand.tech@gmail.com)**.
+Hiring for a remote full-stack, backend or AI engineering role? **[harsh.gavand.tech@gmail.com](mailto:harsh.gavand.tech@gmail.com)**
